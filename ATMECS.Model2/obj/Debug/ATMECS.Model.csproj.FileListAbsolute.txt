@@ -1,0 +1,5 @@
+C:\Users\Hari\source\repos\ATMECSWPF\ATMECS.Model2\bin\Debug\ATMECS.Model2.dll
+C:\Users\Hari\source\repos\ATMECSWPF\ATMECS.Model2\bin\Debug\ATMECS.Model2.pdb
+C:\Users\Hari\source\repos\ATMECSWPF\ATMECS.Model2\obj\Debug\ATMECS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hari\source\repos\ATMECSWPF\ATMECS.Model2\obj\Debug\ATMECS.Model2.dll
+C:\Users\Hari\source\repos\ATMECSWPF\ATMECS.Model2\obj\Debug\ATMECS.Model2.pdb
